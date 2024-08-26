@@ -22,4 +22,4 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](assets/car2.jpeg)
+![image](assets/CarSales Dashboard.png)
