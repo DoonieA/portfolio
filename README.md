@@ -15,3 +15,11 @@ I have a strong knowledge of Advanced Excel, Power BI, Tableau, SQL, R and Power
 
 **- ✅ Goals.**
 My goal as an analyst is to use my proven problem solving, critical thinking and analytical skills to help businesses gain the necessary insights, improve results, and make the right decisions for cost-savings and overall business growth.
+
+<!--Section 2: List 3-4 key projects-->
+## MY PORTFOLIO 
+
+*A glimpse of some of the projects I've been working on.*
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+![image](assets/car2.jpeg)
