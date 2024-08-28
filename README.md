@@ -19,7 +19,7 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-![image](assets/Sales Performace Dashboard.png)
+![image](assets/Sales Performance Dash.jpg)
 
 *A glimpse of some of the projects I've been working on.*
 
