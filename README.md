@@ -23,3 +23,11 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 
 *A glimpse of some of the projects I've been working on.*
 
+**Car Sales Performance Analysis**
+![image](assets/CarSales Dashboard.png)
+
+The car sales analysis and research has shown that the company sales and percentage growth rate was higher that the industry average for 2020 
+
+
+
+[Read More](file:///C:/Users/Ajifolawe%20oladunni/Documents/Beyond%20Cars%20Sales%20Data%20Analysis%20(2020).pdf)
