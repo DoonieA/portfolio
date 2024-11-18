@@ -26,7 +26,8 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 **Car Sales Performance Analysis**
 ![image](assets/CarSales Dashboard.png)
 
-The car sales analysis and research has shown that the company sales and percentage growth rate was higher that the industry average for 2020 
+
+The car sales analysis and research has shown that the company sales and percentage growth rate was higher that the industry average for 2020. I built 2 types of dashboards to represent this data.
 
 
 
