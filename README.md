@@ -31,3 +31,9 @@ The car sales analysis and research has shown that the company sales and percent
 
 
 [Read More](file:///C:/Users/Ajifolawe%20oladunni/Documents/Beyond%20Cars%20Sales%20Data%20Analysis%20(2020).pdf)
+
+**Procurement Cost Analysis.**
+![image](assets/Procurement Cost Analysis Dash..png) 
+
+
+
