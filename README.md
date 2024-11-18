@@ -25,7 +25,7 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 
 **Car Sales Performance Analysis**
 ![image](assets/CarSales Dashboard.png)
-
+![image](assets/Sales Performance Dash 2.png)
 
 The car sales analysis and research has shown that the company sales and percentage growth rate was higher that the industry average for 2020. I built 2 types of dashboards to represent this data.
 
@@ -38,3 +38,4 @@ The car sales analysis and research has shown that the company sales and percent
 
 
 
+This equipment procurement cost analysis has shown that the health ministry could make a savings of 137.2% if the cost based supplier recommendation is implemented. This could be achieved baring any impacting factors outside the information provided in the dataset.
