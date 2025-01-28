@@ -54,7 +54,17 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 
 ![image](assets/Sales Performance Dash 2.png)
 
-The car sales analysis and research has shown that the company sales and percentage growth rate was higher that the industry average for 2020. I built 2 types of dashboards to represent this data.
+This Project involved analyzing the sales of cars in an Auto company across 6 branches
+
+Goal: To understand the factors that affect the sales trend across the 6 branches
+
+Description: This project focused on analyzing the performance of the branches and identifying areas with the highest sales volumes, compare sales performance across branches, and understand regional preferences or market trends.The dataset included columns like transaction id, gender, age, location, car model etc. The process involved Extracting, Loading and Tranforming the data, Exploratory Data Analysis, Data Analysis, Modelling, Visualization. It also involves a correlation analysis to determine the correlation between the various dimensions and the corresponding sales.
+
+Skills: Data cleaning, Data analysis, Data modelling, Correlation matrices and Data visualization.
+
+Technology: Advanced Excel, Statistical Analysis
+
+Results: The analysis showed that CAR BRANDS and BRANCH LOCATIONS had the highest effect and correlation with sales quantity and the highest selling brands had a minimum of 3 models stocked per brand.
 
 
 
