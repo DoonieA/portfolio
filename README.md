@@ -68,7 +68,7 @@ Results: The analysis showed that CAR BRANDS and BRANCH LOCATIONS had the highes
 
 
 
-[Read More](file:///C:/Users/Ajifolawe%20oladunni/Documents/Beyond%20Cars%20Sales%20Data%20Analysis%20(2020).pdf)
+[Read More](https://1drv.ms/b/c/5d8965274b18765c/EXebQy8Y62pEguD5Gbv1uzUBLe8Xwfn8c9AYIvzEz08aFw?e=YciEp8)
 
 **Procurement Cost Analysis.**
 ![image](assets/Procurement Cost Analysis Dash..png) 
