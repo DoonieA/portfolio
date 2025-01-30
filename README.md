@@ -56,15 +56,15 @@ My goal as an analyst is to use my proven problem solving, critical thinking and
 
 This Project involved analyzing the sales of cars in an Auto company across six branches
 
-# Goal: To understand the factors that affect the sales trend across the six branches
+** Goal **: To understand the factors that affect the sales trend across the six branches
 
-# Description: This project focused on analyzing the performance of the branches and identifying areas with the highest sales volumes, compare sales performance across branches, and understand regional preferences or market trends.The dataset included columns like transaction id, gender, age, location, car model etc. The process involved Extracting, Loading and Tranforming the data, Exploratory Data Analysis, Data Analysis, Modelling, Visualization. It also involves a correlation analysis to determine the correlation between the various dimensions and the corresponding sales.
+** Description **: This project focused on analyzing the performance of the branches and identifying areas with the highest sales volumes, compare sales performance across branches, and understand regional preferences or market trends.The dataset included columns like transaction id, gender, age, location, car model etc. The process involved Extracting, Loading and Tranforming the data, Exploratory Data Analysis, Data Analysis, Modelling, Visualization. It also involves a correlation analysis to determine the correlation between the various dimensions and the corresponding sales.
 
-# Skills: Data cleaning, Data analysis, Data modelling, Correlation matrices and Data visualization.
+** Skills **: Data cleaning, Data analysis, Data modelling, Correlation matrices and Data visualization.
 
-# Technology: ** Microsoft Excel, Statistical Analysis **
+** Technology **: Microsoft Excel, Statistical Analysis 
 
-# Results: The analysis showed that CAR BRANDS and BRANCH LOCATIONS had the highest effect and correlation with sales quantity and the highest selling brands had a minimum of 3 models stocked per brand.
+** Results **: The analysis showed that CAR BRANDS and BRANCH LOCATIONS had the highest effect and correlation with sales quantity and the highest selling brands had a minimum of 3 models stocked per brand.
 
 
 
@@ -77,13 +77,13 @@ This Project involved analyzing the sales of cars in an Auto company across six 
 
 This Project involved the comprehensive analysis of the procurement data of the Federal Ministry of Health
 
-# Goal: To evaluate the overall procurement process across various regions and agin insights for an improved procurement process.
+** Goal **: To evaluate the overall procurement process across various regions and agin insights for an improved procurement process.
 
-# Description: This project focused on calculating the cost efficiency in procurement across regions, pinpointing areas for potential cost and waste reduction, comparing supplier performance based on cost, and nderstanding factors that support effective supplier selection.
+** Description **: This project focused on calculating the cost efficiency in procurement across regions, pinpointing areas for potential cost and waste reduction, comparing supplier performance based on cost, and nderstanding factors that support effective supplier selection.
 
 
-# Skills: Data cleaning, Data analysis, Data modelling, Cost savings analysisn and Data visualization.
+** Skills **: Data cleaning, Data analysis, Data modelling, Cost savings analysisn and Data visualization.
 
-# Technology: ** Power BI, Statistical Analysis **
+** Technology **: Power BI, Statistical Analysis 
 
-# Results: This equipment procurement cost analysis has shown that the health ministry could make a savings of 137.2% if the cost based supplier recommendation is implemented. This could be achieved baring any impacting factors outside the information provided in the dataset.
+** Results **: This equipment procurement cost analysis has shown that the health ministry could make a savings of 137.2% if the cost based supplier recommendation is implemented. This could be achieved baring any impacting factors outside the information provided in the dataset.
