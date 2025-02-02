@@ -88,5 +88,5 @@ This Project involved the comprehensive analysis of the procurement data of the 
 
 **Results**: This equipment procurement cost analysis has shown that the health ministry could make a savings of 137.2% if the cost based supplier recommendation is implemented. This could be achieved baring any impacting factors outside the information provided in the dataset.
 
-![image](assets/Procurement Cost Analysis Dash..png) 
+![image](assets/Google Fiber Dashboard.png) 
 
