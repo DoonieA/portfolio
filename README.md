@@ -109,5 +109,10 @@ You can find more information on this analysis and more of my visualizations on 
 
 Click here to view my Google Cyclistic Data Case Study using R programming [Read More](https://www.kaggle.com/code/oladunnia/google-cyclistic-data-case-study-1)
 
+You can reach me on [Linkedin](https://www.linkedin.com/in/oa10/)
+[Email](duniiyomi12@googlemail.com)
+
+Thank you!
+
 
 
