@@ -107,7 +107,7 @@ This Project involved the comprehensive analysis of the procurement data of the 
 
 You can find more information on this analysis and more of my visualizations on **Tableau** here...[Read More](https://public.tableau.com/app/profile/dunni.aji/vizzes) 
 
-Click here to view my Google Cyclistic Data Case Study using R programming [Read More](https://www.kaggle.com/code/oladunnia/google-cyclistic-data-case-study-1)
+Click here to view my Google Cyclistic Data Case Study using **R programming** [Read More](https://www.kaggle.com/code/oladunnia/google-cyclistic-data-case-study-1)
 
 You can reach me on: 
 
