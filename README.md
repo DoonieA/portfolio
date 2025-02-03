@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
