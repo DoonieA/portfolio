@@ -104,6 +104,20 @@ This Project involved the comprehensive analysis of the procurement data of the 
 
 **Results**: This call log analysis revealed that market 1 had a very high repeat call rate and would require further analysis of the location, leadership and team working in this city. The most prevalent problem type was Type_5 followed by Type 2. A further analysis would be needed on the factors impacting the resolution of these problem types.
 
+**Performance Analysis (Oil and Gas).**
+![image](assets/Oil n Gas Performance Analysis Dash.png)
+
+
+
+**Goal**: The primary objective of this project is to utilize the provided dataset to derive actionable insights regarding employee performance, cost efficiency, and quality control. 
+
+**Description**: The aim of this analysis is to calculate and compare the Units Produced per Hour for each location, determine the Cost per Unit Produced for each location to pinpoint areas for potential cost reduction, calculate the Quality Issues Rate to understand the frequency and impact of quality issues on production, analyze the relationship between Overtime Hours and productivity/quality, assess the relationship between Training Hours and productivity/quality metrics, conduct a comparative analysis of key metrics across different rig locations and provide strategic recommendations based on the analysis to enhance productivity. 
+
+**Skills**: Data cleaning, Data Modelling, Statistical Analysis, Data analysis and Data visualization.
+
+**Technology**: Microsoft Excel
+
+**Results**: 
 
 You can find more information on this analysis and more of my visualizations on **Tableau** here...[Read More](https://public.tableau.com/app/profile/dunni.aji/vizzes) 
 
