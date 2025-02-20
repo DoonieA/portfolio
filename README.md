@@ -105,7 +105,7 @@ This Project involved the comprehensive analysis of the procurement data of the 
 **Results**: This call log analysis revealed that market 1 had a very high repeat call rate and would require further analysis of the location, leadership and team working in this city. The most prevalent problem type was Type_5 followed by Type 2. A further analysis would be needed on the factors impacting the resolution of these problem types.
 
 **Performance Analysis (Oil and Gas).**
-![image](assets/Oil n Gas Performance Analysis Dash.png)
+![image](assets/Oil and Gas Performance Dashboard.png)
 
 
 
