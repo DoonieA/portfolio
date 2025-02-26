@@ -113,11 +113,11 @@ This Project involved the comprehensive analysis of the procurement data of the 
 
 **Description**: The aim of this analysis is to calculate and compare the Units Produced per Hour for each location, determine the Cost per Unit Produced for each location to pinpoint areas for potential cost reduction, calculate the Quality Issues Rate to understand the frequency and impact of quality issues on production, analyze the relationship between Overtime Hours and productivity/quality, assess the relationship between Training Hours and productivity/quality metrics, conduct a comparative analysis of key metrics across different rig locations and provide strategic recommendations based on the analysis to enhance productivity. 
 
-**Skills**: Data cleaning, Data Modelling, Statistical Analysis, Data analysis and Data visualization.
+**Skills**: Data cleaning, Data Modelling, Statistical Analysis, Data analysis, Correlation analysis and Data visualization.
 
 **Technology**: Microsoft Excel
 
-**Results**: 
+**Results**: The analysis revealed that only the Brass location had a very strong positive correlation (0.9) between the average training hours per week, and the quality issues rate. There was also a strong positive correlation (0.974) between the average training hours and the units produced per hour. This means that the more training hours invested in the Brass location staff, the lower the percentage rate of quality issues and the higher the number of units produced per hour. It also revealed that the Ekeremor location had an unusually high production cost per unit. A further analysis and would be required into the operations of other branches especially Ekeremor with it's high production cost and high percentage of quality issues.  
 
 You can find more information on this analysis and more of my visualizations on **Tableau** here...[Read More](https://public.tableau.com/app/profile/dunni.aji/vizzes) 
 
