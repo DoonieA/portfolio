@@ -77,12 +77,12 @@ This Project involved analyzing the sales of cars in an Auto company across six 
 
 This Project involved the comprehensive analysis of the procurement data of the Federal Ministry of Health
 
-**Goal**: To evaluate the overall procurement process across various regions and agin insights for an improved procurement process.
+**Goal**: To evaluate the overall procurement process across various regions and gain insights for an improved procurement process.
 
 **Description**: This project focused on calculating the cost efficiency in procurement across regions, pinpointing areas for potential cost and waste reduction, comparing supplier performance based on cost, and nderstanding factors that support effective supplier selection.
 
 
-**Skills**: Data cleaning, Data analysis, Data modelling, Cost savings analysisn and Data visualization.
+**Skills**: Data cleaning, Data analysis, Data modelling, Cost savings analysis and Data visualization.
 
 **Technology**: Power BI, Statistical Analysis 
 
