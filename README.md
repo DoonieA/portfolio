@@ -130,6 +130,8 @@ You can reach me on:
 
 [duniiyomi12@googlemail.com](mailto:duniiyomi12@googlemail.com)
 
+[Download my CV](https://docs.google.com/document/d/1bUD9B0qs8UyBIsMCjlhr-_UH0aKVlWg8BAseefFMP0s/edit?usp=sharing)
+
 Thank you!
 
 
