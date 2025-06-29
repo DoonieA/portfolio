@@ -128,7 +128,7 @@ You can reach me on:
 [Linkedin](https://www.linkedin.com/in/oa10/)
 
 
-[duniiyomi12@googlemail.com]
+[duniiyomi12@googlemail.com](mailto:duniiyomi12@googlemail.com)
 
 Thank you!
 
