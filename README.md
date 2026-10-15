@@ -133,7 +133,7 @@ Or:
 
 [Download my CV](https://docs.google.com/document/d/1bUD9B0qs8UyBIsMCjlhr-_UH0aKVlWg8BAseefFMP0s/edit?usp=sharing)
 
-Thank you!
+I look forward to connecting with you!
 
 
 
